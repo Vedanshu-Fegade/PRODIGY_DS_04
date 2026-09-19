@@ -1,0 +1,5 @@
+Tweets analysed: 45,615
+Positive: 17,849 (39.1%)
+Neutral: 20,673 (45.3%)
+Negative: 7,093 (15.5%)
+The term charts are descriptive; they do not by themselves establish causation or public consensus.
